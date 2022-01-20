@@ -15,7 +15,8 @@ import {CalendarModule} from 'primeng/calendar';
     FormsModule,
     ButtonModule,
     BrowserAnimationsModule,
-    CalendarModule
+    CalendarModule,
+    RippleModule
   ],
   providers: [],
   bootstrap: [AppComponent]
